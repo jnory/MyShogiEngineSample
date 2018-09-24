@@ -1,6 +1,6 @@
 # これは何？
 
-このフォルダには9bce145d4645060a6ce1bc940a9c473af2975d28からビルドしたやねうら王(KPP\_KKPT版)のバイナリを含んでいます。
+このフォルダには9bce145d4645060a6ce1bc940a9c473af2975d28からビルドしたやねうら王(KPP\_KKPT版)のMac向けバイナリを含んでいます。
 
 # モデルファイル
 モデルファイルは大きいのでこのリポジトリに含めることができません。
@@ -21,6 +21,6 @@ https://github.com/yaneurao/MyShogi/blob/master/MyShogi/Model/Shogi/EngineDefine
 
 # ライセンス
 ビルドに当たって多少ソースコードを書き換えました。
-コードは https://github.com/jnory/YaneuraOu/tree/myshogi_engine_sample から取得できます。
+コードは https://github.com/jnory/YaneuraOu/tree/myshogi\_engine\_sample から取得できます。
 ライセンスは本家がGPLv3のため、こちらもGPLv3になります。
 
