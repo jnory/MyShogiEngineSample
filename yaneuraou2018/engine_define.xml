@@ -638,7 +638,7 @@ xmlns="http://schemas.datacontract.org/2004/07/MyShogi.Model.Shogi.EngineDefine"
     <EnginePreset>
       <Description>棋力制限一切なしで強さは設定された持ち時間、PCスペックに依存します。
       CPU負荷率が気になる方は、詳細設定の「スレッド数」のところで調整してください。</Description>
-      <Name>将棋神</Name>
+      <Name>無制限</Name>
       <Options>
         <EngineOption>
           <Name>NodesLimit</Name>
